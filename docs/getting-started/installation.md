@@ -11,7 +11,7 @@ Unpack the Yii Framework Folder to a Web-accessible directory
 * **create db with SQL file you own saperately**
 not posting here
 
-![Project Directory Example](https://1drv.ms/u/s!Ap1hB4SwP_ofidUyVMovEKnO0tgAPg?e=sLqtFM)
+![Project Directory Example](https://ikngqa.by.files.1drv.com/y4mjo6F9vjvN3KVTBoFtZgomUrKHasuWVlDi2LUUX6nsIrsqP1iK84BhNhFr14XahJLw9_4WSgRxbZkVaOuF6-QxHykNGjRBsO19C-OjQmji2dOJE56lsmZEur2-txRjunJSS2qs4kfn4PMpQ0vXqok37FYn6gHJVbjf3GT8hazA8ZuH14xwG7pX7kKfT_ZCa4CQLohSqP5G2SFZ5STOYZouw?width=878&height=518&cropmode=none)
 
 
 # [Directory Structure](getting-started/directory-structure.md)
