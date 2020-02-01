@@ -11,12 +11,19 @@ Unpack the Yii Framework Folder to a Web-accessible directory
 * **create db with SQL file you own saperately**
 not posting here
 
+* **Home Food Project Dicetory
+
 ![Project Directory Example](https://ikngqa.by.files.1drv.com/y4mjo6F9vjvN3KVTBoFtZgomUrKHasuWVlDi2LUUX6nsIrsqP1iK84BhNhFr14XahJLw9_4WSgRxbZkVaOuF6-QxHykNGjRBsO19C-OjQmji2dOJE56lsmZEur2-txRjunJSS2qs4kfn4PMpQ0vXqok37FYn6gHJVbjf3GT8hazA8ZuH14xwG7pX7kKfT_ZCa4CQLohSqP5G2SFZ5STOYZouw?width=878&height=518&cropmode=none)
 
 
-# [Directory Structure](getting-started/directory-structure.md)
+
+# Understanding [Directory Structure](getting-started/directory-structure.md)
 
 Yii assumes a default set of directories used for various purposes. Each of them can be customized if needed.
+
+ * framework is framework folder which [download] above step.
+
+ * homefood is project folder or WebRoot will be call from now on.
 
  * WebRoot/protected: this is the application base directory holding all security-sensitive PHP scripts and data files. Yii has a default alias named application associated with this path. This directory and everything under should be protected from being accessed by Web users. It can be customized via CWebApplication::basePath.
 
