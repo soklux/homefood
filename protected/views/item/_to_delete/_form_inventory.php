@@ -1,0 +1,1 @@
+<?php echo $form->textFieldControlGroup($model,'quantity',array('class'=>'span3'));
