@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Introduction](introduction.md)
+* [Introduction](/docs/introduction.md)
 
 ## Getting started
 
-* [What is Yii](docs/getting-started/what-is-yii.md)
+* [What is Yii](/docs/getting-started/what-is-yii.md)
 * [Prerequisites](docs/getting-started/prerequisites.md)
 * [Installation](docs/getting-started/installation.md)
 * [Configurations](docs/getting-started/configurations.md)
@@ -12,7 +12,7 @@
 
 ## Implemention CRUD Operation
 
- * [Understand CRUD file & folder stucture](idocs/mplementation/simple-crud.md)
+ * [Understand CRUD file & folder stucture](docs/mplementation/simple-crud.md)
       
 
 
