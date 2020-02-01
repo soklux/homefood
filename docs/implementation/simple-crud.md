@@ -3,9 +3,12 @@
 
 ## Let's take Outlet List Admin form as example here. 
 
-	* Controler  : protetec/controler/OutletController.php contains the OutletController class which in charge of all CRUD operatons about outlets.
-	* Model      : protected/model/Outlet.php  
-	* Views      : 
+ * Controler  : protetec/controler/OutletController.php contains the OutletController class which in charge of all CRUD operatons about outlets.
+
+ * Model      : protected/model/Outlet.php  
+
+ * Views      : 
+
 	  * Admin view         : protected/views/outlet/admin.php is the view file that displays outlets in a table / list vie with administrative commands.
 	  * Create view 	  : protected/views/outlet/create.php is the view file that show s an HTML form to create a new out let;
 	  * Update view 	  : protected/views/outlet/update.php is the view file that show an HTML form to update an existing outlet.
@@ -18,6 +21,8 @@
 
 
 ## Understand the Dasbhoard & Report File & Folder Stucture 
+
+## Let's take Dashboard & Report as example here. 
 
 ### Controller
 
@@ -32,7 +37,7 @@ To display report detail as table $filer pass from Dashboard or Tab Header
 ```
  public function actionAgedCustomerPurchase($filter = '1')
     {
-    	
+
         authorized('report.stock');
 
         $grid_id = 'rpt-aged-customer-grid';
